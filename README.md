@@ -12,6 +12,7 @@ Auf GitHub dokumentiere ich meine universitären Projekte, vertiefe meine Progra
 - C
 - Python
 - Java
+- Kotlin
 - JavaScript
 
 **Webentwicklung**
