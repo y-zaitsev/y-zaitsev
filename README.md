@@ -53,7 +53,7 @@ Besonders interessieren mich Aufgaben in der Softwareentwicklung, im Backend, in
 
 - GitHub: [y-zaitsev](https://github.com/y-zaitsev)
 
-Weitere Kontaktmöglichkeiten ergänze ich hier, sobald meine beruflichen Profile bereit sind.
+
 
 <!--
 **y-zaitsev/y-zaitsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
