@@ -17,9 +17,9 @@ Ich studiere Informatik an der TU Dortmund und entwickle praktische Softwarelös
 - HTML
 - CSS
 
-  **Tools**
-  - Git, GitHub
-  - VS Code
+**Tools**
+ - Git, GitHub
+ - VS Code
 
 ## Ausgewählte Projekte
 
