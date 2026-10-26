@@ -52,6 +52,8 @@ Besonders interessieren mich Aufgaben in der Softwareentwicklung, im Backend, in
 ## 📫 Kontakt
 
 - GitHub: [y-zaitsev](https://github.com/y-zaitsev)
+- E-Mail: yehor.zaitsev@proton.me
+- LinkedIn: www.linkedin.com/in/yehor-zaitsev
 
 
 
