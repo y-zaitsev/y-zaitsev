@@ -1,12 +1,10 @@
-# Hallo, ich bin Yehor Zaitsev 👋
+# Hallo, ich bin Yehor Zaitsev 
 
-**Informatikstudent an der TU Dortmund | Softwareentwicklung | Werkstudent**
+**Informatikstudent an der TU Dortmund | Softwareentwicklung | Suche Werkstudentenstelle**
 
-Ich studiere Informatik an der TU Dortmund und beschäftige mich mit Programmierung, Algorithmen und der Entwicklung praktischer Softwarelösungen.
+Ich studiere Informatik an der TU Dortmund und entwickle praktische Softwarelösungen. Auf GitHub dokumentiere ich meine Uni-Projekte und eigene Projekte.
 
-Auf GitHub dokumentiere ich meine universitären Projekte, vertiefe meine Programmierkenntnisse und arbeite daran, aus theoretischem Wissen praktische Anwendungen zu entwickeln.
-
-## 🛠️ Technische Kenntnisse
+## Technische Kenntnisse
 
 **Programmiersprachen**
 - C
@@ -19,16 +17,17 @@ Auf GitHub dokumentiere ich meine universitären Projekte, vertiefe meine Progra
 - HTML
 - CSS
 
+  **Tools**
+  - Git, GitHub
+  - VS Code
 
-*Die Kenntnisse entwickle ich im Rahmen meines Studiums und eigener Projekte kontinuierlich weiter.*
-
-## 📂 Ausgewählte Projekte
+## Ausgewählte Projekte
 
 ### [University Algorithms Portfolio](https://github.com/y-zaitsev/university-algorithms-portfolio)
 
 Sammlung von Programmierpraktika in C aus dem Studium mit Schwerpunkt auf Algorithmen und Datenstrukturen.
 
-Themen:
+**Themen:**
 - Sortieralgorithmen, darunter Quick Sort, Radix Sort und Counting Sort
 - Auswahlalgorithmen wie Quickselect und Heapselect
 - Heap-basierte Datenstrukturen und Running Median
@@ -36,28 +35,34 @@ Themen:
 
 **Technologien:** C
 
-## 🎯 Aktuelle Schwerpunkte
+### [Expense Tracker](https://github.com/y-zaitsev/expense-tracker)
 
-- Softwareentwicklung und saubere Code-Strukturen
-- Algorithmen und Datenstrukturen
-- Praktische Projekte mit Python, Java und JavaScript
-- Vertiefung meiner Kenntnisse in Webentwicklung und SQL
+Eine einfache Python-Konsolenanwendung zur Verwaltung persönlicher Ausgaben. Die Anwendung ermöglicht das Erfassen und Anzeigen von Ausgaben, speichert die Daten lokal in einer JSON-Datei und erstellt Auswertungen nach Kategorien.
 
-## 💼 Mein Ziel
+**Themen:**
+- Eingabevalidierung für Beträge, Kategorien und Datumsangaben
+- Lokale Datenspeicherung mit JSON
+- Auswertung und Gruppierung von Ausgaben nach Kategorien
+- Arbeiten mit Python-Funktionen, Schleifen und Fehlerbehandlung
 
-Ich möchte meine Kenntnisse in einem Werkstudentenjob praktisch einsetzen, von erfahrenen Entwicklerinnen und Entwicklern lernen und zur Entwicklung zuverlässiger Software beitragen.
+**Technologien:** Python, JSON, `datetime`
 
-Besonders interessieren mich Aufgaben in der Softwareentwicklung, im Backend, in der Webentwicklung und im IT-Umfeld.
 
-## 📫 Kontakt
+**Schwerpunkte:** Saubere Code-Strukturen, Algorithmen und Datenstrukturen, Python, Java, JavaScript, Webentwicklung und SQL.
+
+
+**Ziel:** Ich möchte meine Kenntnisse in einem Werkstudentenjob einsetzen, von erfahrenen Entwicklerinnen und Entwicklern lernen und zu zuverlässiger Software beitragen. Besonders interessieren mich Softwareentwicklung, Backend, Webentwicklung und das IT-Umfeld.
+
+
+## Kontakt
 
 - GitHub: [y-zaitsev](https://github.com/y-zaitsev)
 - E-Mail: yehor.zaitsev@proton.me
-- LinkedIn: www.linkedin.com/in/yehor-zaitsev
+- LinkedIn: [Yehor Zaitsev](https://www.linkedin.com/in/yehor-zaitsev)
 
 
 
-<!--
+
 **y-zaitsev/y-zaitsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
