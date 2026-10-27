@@ -37,15 +37,22 @@ Sammlung von Programmierpraktika in C aus dem Studium mit Schwerpunkt auf Algori
 
 ### [Expense Tracker](https://github.com/y-zaitsev/expense-tracker)
 
-Eine einfache Python-Konsolenanwendung zur Verwaltung persönlicher Ausgaben. Die Anwendung ermöglicht das Erfassen und Anzeigen von Ausgaben, speichert die Daten lokal in einer JSON-Datei und erstellt Auswertungen nach Kategorien.
+Eine Kotlin-basierte Desktop-Anwendung zur Verwaltung persönlicher Ausgaben und Budgets. Die Anwendung nutzt SQLite zur lokalen Datenspeicherung, bietet eine grafische Oberfläche und unterstützt alternativ die Bedienung über die Kommandozeile.
 
 **Themen:**
-- Eingabevalidierung für Beträge, Kategorien und Datumsangaben
-- Lokale Datenspeicherung mit JSON
-- Auswertung und Gruppierung von Ausgaben nach Kategorien
-- Arbeiten mit Python-Funktionen, Schleifen und Fehlerbehandlung
 
-**Technologien:** Python, JSON, `datetime`
+- Verwaltung von Ausgaben und Budgets
+- Lokale Datenspeicherung mit SQLite
+- Export von Ausgabedaten im CSV-Format
+- Grafische Benutzeroberfläche mit Java Swing
+- Trennung von Datenzugriff, Anwendungslogik und Benutzeroberfläche
+- Automatisierte Tests mit Gradle
+
+**Technologien:** Kotlin, SQLite, JDBC, Java Swing, Gradle, JUnit, Python
+
+**Schwerpunkte:** Saubere Code-Strukturen, objektorientierte Programmierung, Algorithmen und Datenstrukturen, Kotlin, Java, JavaScript, Webentwicklung und SQL.
+
+**Ziel:** Ich möchte meine Kenntnisse in einem Werkstudentenjob einsetzen, von erfahrenen Entwicklerinnen und Entwicklern lernen und an zuverlässiger Software mitarbeiten. Besonders interessieren mich Softwareentwicklung, Backend-Entwicklung, Webentwicklung und Datenbanken.
 
 
 **Schwerpunkte:** Saubere Code-Strukturen, Algorithmen und Datenstrukturen, Python, Java, JavaScript, Webentwicklung und SQL.
